@@ -1,8 +1,10 @@
 p{
     font-size: 16px;
+    text-align:justify;
 }
 body{
     background-color: #F1F2F6;
+    text-align:justify;
 }
 img{
     height: 600px;
