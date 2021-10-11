@@ -4,6 +4,7 @@ p{
 body{
     background: url("images/pngwing.com.png") no-repeat #F1F2F6 center top;
     background-size: cover;
+    margin-left: 10px;
     text-align:justify;
 }
 img{
@@ -11,4 +12,7 @@ img{
     width: 320px;
     float: right;
     margin-left: 10px;
+}
+.resource{
+    text-align: end;
 }
