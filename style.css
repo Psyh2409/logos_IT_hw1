@@ -2,7 +2,8 @@ p{
     font-size: 16px;
 }
 body{
-    background-color: #F1F2F6;
+    background: url("images/pngwing.com.png") no-repeat #F1F2F6 center top;
+    background-size: cover;
     text-align:justify;
 }
 img{
